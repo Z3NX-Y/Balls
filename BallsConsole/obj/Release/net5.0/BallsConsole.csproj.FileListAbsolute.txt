@@ -1,0 +1,15 @@
+C:\Users\jasj8\source\repos\BallsConsole\BallsConsole\bin\Release\net5.0\BallsConsole.exe
+C:\Users\jasj8\source\repos\BallsConsole\BallsConsole\bin\Release\net5.0\BallsConsole.deps.json
+C:\Users\jasj8\source\repos\BallsConsole\BallsConsole\bin\Release\net5.0\BallsConsole.runtimeconfig.json
+C:\Users\jasj8\source\repos\BallsConsole\BallsConsole\bin\Release\net5.0\BallsConsole.runtimeconfig.dev.json
+C:\Users\jasj8\source\repos\BallsConsole\BallsConsole\bin\Release\net5.0\BallsConsole.dll
+C:\Users\jasj8\source\repos\BallsConsole\BallsConsole\bin\Release\net5.0\ref\BallsConsole.dll
+C:\Users\jasj8\source\repos\BallsConsole\BallsConsole\bin\Release\net5.0\BallsConsole.pdb
+C:\Users\jasj8\source\repos\BallsConsole\BallsConsole\obj\Release\net5.0\BallsConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jasj8\source\repos\BallsConsole\BallsConsole\obj\Release\net5.0\BallsConsole.AssemblyInfoInputs.cache
+C:\Users\jasj8\source\repos\BallsConsole\BallsConsole\obj\Release\net5.0\BallsConsole.AssemblyInfo.cs
+C:\Users\jasj8\source\repos\BallsConsole\BallsConsole\obj\Release\net5.0\BallsConsole.csproj.CoreCompileInputs.cache
+C:\Users\jasj8\source\repos\BallsConsole\BallsConsole\obj\Release\net5.0\BallsConsole.dll
+C:\Users\jasj8\source\repos\BallsConsole\BallsConsole\obj\Release\net5.0\ref\BallsConsole.dll
+C:\Users\jasj8\source\repos\BallsConsole\BallsConsole\obj\Release\net5.0\BallsConsole.pdb
+C:\Users\jasj8\source\repos\BallsConsole\BallsConsole\obj\Release\net5.0\BallsConsole.genruntimeconfig.cache
