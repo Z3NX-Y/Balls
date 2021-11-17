@@ -43,8 +43,8 @@ There are several methods to download the ultimate monkey balls software.
 I currently have a lot to do so anybody can have the ultimate monkey ball experience.
 
 ### List
-- [ ] Make it.
-- [x] Make a installer.
+- [x] Make it.
+- [ ] Make a installer.
 - [ ] Add more feautures.
 - [x] Balls
 
