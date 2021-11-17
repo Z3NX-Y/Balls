@@ -8,7 +8,7 @@ Then I've got the perfect product for you!
 
 **You may wonder what features our awesome product has.**
 
-So
+So here are the
 
 # Features
 
