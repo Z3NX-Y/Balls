@@ -10,7 +10,7 @@ Then I've got the perfect product for you!
 
 So
 
-# Feautures
+# Features
 
 - Balls
 - Instantly filling desktop with countless monkey **Balls**
