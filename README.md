@@ -6,7 +6,7 @@ Then I've got the perfect product for you!
 
 ## Introducing Monkey Ballsinator 6000
 
-***You may wonder what features our awesome product has.**
+**You may wonder what features our awesome product has.**
 
 So
 
