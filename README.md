@@ -48,12 +48,5 @@ There are several methods to download the ultimate monkey balls software.
 - [ ] Add more feautures.
 - [x] Balls
 
-# Malware disclaimer
-
-This software is considered as malicious.
-
-It may harm your pc due to its functions.
- 
-Remember; I am not responsible for any potential damage to your files and computer.
- 
-### Use at your own caution ⚠️ 
+# I spent too long on this
+I am heavily damaged I don't have any friends please help
