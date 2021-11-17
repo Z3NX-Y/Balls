@@ -35,7 +35,7 @@ So:
 There are several methods to download the ultimate monkey balls software.
 
 - The zip file
-- The **installer**
+- The [**Installer**](https://github.com/ZENXDotPY/Balls/releases/download/0.0.1/BallsSetup.msi)
 - Balls
 - Building the code yourself 👎
 
