@@ -36,3 +36,14 @@ There are several methods to download the ultimate monkey balls software.
 - The **installer**
 - Balls
 - Building the code yourself 👎
+
+
+# Malware disclaimer
+
+This software is considered as **<<Malicious>>**
+
+It may harm your pc due to its functions.
+ 
+Remember; I am not responsible for any potential damage to your files and computer.
+ 
+### Use at your own caution ⚠️ 
